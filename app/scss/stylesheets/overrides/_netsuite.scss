@@ -1,0 +1,46 @@
+/*
+*
+		========================================
+		  X. NetSuite Override
+		========================================
+
+		  Date Created: #{$date-create}
+		  Created By:   #{$name}
+		  Last Updated: --/--/----
+		  Updated By:   #{$name}
+
+*
+*/
+
+#handle_itemMainPortlet > td > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(2) {
+	display: none !important;
+}
+
+#handle_itemMainPortlet > td > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td > table > tbody > tr:nth-child(1) {
+	display: none !important;	
+}
+
+#__enclosingtable > tbody > tr > td:nth-child(1) {
+	display: none !important;	
+}
+
+#handle_itemMainPortlet > td > table > tbody > tr:nth-child(2) > td > table > tbody > tr:nth-child(1) > td > table > tbody > tr > td > table > tbody > tr:nth-child(2) > td {
+       display: none !important;	
+}
+
+body.body_2010 {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+#__enclosingtable td:nth-child(2) {
+    padding-left: 0px !important;
+}
+
+#handle_itemMainPortlet tr[valign="top"] > td {
+    padding: 0px !important;
+}
+
+.bgltmedtext > table {
+    position: relative;
+}

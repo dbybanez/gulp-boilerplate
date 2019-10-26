@@ -1,0 +1,43 @@
+/*
+*
+		========================================
+		  1. Plugins
+		========================================
+
+		  Date Created: #{$date-create}
+		  Created By:   #{$name}
+		  Last Updated: --/--/----
+		  Updated By:   #{$name}
+
+*
+*/
+
+.owl-prev {
+    position: absolute;
+    display: block !important;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    background: transparent !important;
+}
+
+.owl-next {
+    position: absolute;
+    display: block !important;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    background: transparent !important;
+}
+
+.owl-prev, .owl-next {
+  i {
+    font-size: 50px;
+  }
+}
+
+.owl-dots {
+  position: relative;
+  z-index: 999;
+  margin-top: -50px;
+}

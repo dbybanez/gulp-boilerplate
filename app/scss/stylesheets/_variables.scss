@@ -1,0 +1,111 @@
+/*
+*
+		========================================
+		  Variables
+		========================================
+
+		  Date Created: #{$date-create}
+		  Created By:   #{$name}
+		  Last Updated: --/--/----
+		  Updated By:   #{$name}
+
+*
+*/
+
+//== Colors
+// $dark-blue-base:         #002D43 !default;
+// $dark-blue-dark:         darken($dark-blue-base, 13.5%) !default;
+// $dark-blue-darker:       darken($dark-blue-base, 20%) !default;
+// $dark-blue-light:        lighten($dark-blue-base, 13.5%) !default;
+// $dark-blue-lighter:      lighten($dark-blue-base, 20%) !default;
+
+// $mid-blue-base:          #266093 !default;
+// $mid-blue-dark:          darken($mid-blue-base, 13.5%) !default;
+// $mid-blue-darker:        darken($mid-blue-base, 20%) !default;
+// $mid-blue-light:         lighten($mid-blue-base, 13.5%) !default;
+// $mid-blue-lightest:      lighten($mid-blue-base, 20%) !default;
+
+// $light-blue-base:        #45A0D9 !default;
+// $light-blue-dark:        darken($light-blue-base, 13.5%) !default;
+// $light-blue-darker:      darken($light-blue-base, 20%) !default;
+// $light-blue-light:       lighten($light-blue-base, 13.5%) !default;
+// $light-blue-lighter:     lighten($light-blue-base, 20%) !default;
+// $light-blue-lightest:    lighten($light-blue-base, 33.5%) !default;
+
+//== Social Media Colors
+// $linkedin-color:         #0077B5 !default;
+// $youtube-color:          #E32C26 !default;
+
+// $gray-base:              #000 !default;
+// $gray-darker:            lighten($gray-base, 13.5%) !default; // #222
+// $gray-dark:              lighten($gray-base, 20%) !default;   // #333
+// $gray:                   lighten($gray-base, 33.5%) !default; // #555
+// $gray-light:             lighten($gray-base, 46.7%) !default; // #777
+// $gray-lighter:           lighten($gray-base, 93.5%) !default; // #eee
+$white:					         #ffffff;
+
+// $brand-primary:          #38A0F4 !default; // #337ab7
+// $brand-success:          #5cb85c !default;
+// $brand-info:             #5bc0de !default;
+// $brand-warning:          #f0ad4e !default;
+// $brand-danger:           #d9534f !default;
+// $brand-purple:           #BC0092 !default;
+
+//== Typography
+
+// $font-family-base:        "Helvetica Neue", Roboto, Arial, "Droid Sans", sans-serif !default;
+
+// $font-size-base:          13px !default;
+// $font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+// $font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+
+// $font-size-h1:            floor(($font-size-base * 2.6)) !default; // ~36px
+// $font-size-h2:            floor(($font-size-base * 2.15)) !default; // ~30px
+// $font-size-h3:            ceil(($font-size-base * 1.7)) !default; // ~24px
+
+// $body-text-color:		     #73879C;
+// $body-bg:				         #263238;
+
+// $link-color:			       #0099CC;
+// $link-decoration:		     underline;
+
+//== Form states and alerts
+
+// $state-success-text:     #3c763d !default;
+// $state-success-bg:       #dff0d8 !default;
+// $state-success-border:   darken(adjust-hue($state-success-bg, -10), 5%) !default;
+
+// $state-info-text:        #31708f !default;
+// $state-info-bg:          #d9edf7 !default;
+// $state-info-border:      darken(adjust-hue($state-info-bg, -10), 7%) !default;
+
+//== Buttons
+
+// $btn-font-weight:        normal !default;
+
+// $btn-primary-color:			 $white;
+// $btn-primary-bg: 				 #0099CC;
+// $btn-primary-boider:		 #ccc;
+
+// $btn-success-color:      $white;
+// $btn-success-bg: 				 #86C042;
+// $btn-success-border:     darken($btn-success-bg, 10%);
+
+//== Panels
+
+// $panel-header-color: 			$white;
+// $panel-header-bg: 				$brand-primary;
+
+//== Tabs
+
+// $tabs-min-width:				  135px;
+
+//== Breakpoints
+
+// $break-xs: 768px;
+// $break-sm: 0;
+// $break-md: 0;
+// $break-lg: 0;
+
+
+
