@@ -1,5 +1,5 @@
 # gulp-boilerplate
-An HTML boilerplate with Bootstrap 4 using Gulp, Browsersync, and SCSS workflow.
+An HTML boilerplate with Bootstrap 4.x.x using Gulp, Browsersync, and SCSS workflow.
 
 ## Setting up your environment
 Before we get started, make sure to download https://nodejs.org/en/.
